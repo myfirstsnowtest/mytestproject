@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Workplan and Workstep Application">42f49480dbc56300a126771ebf961971</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>WorkPlans</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_278705_workplana_workplan</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_278705_workplana.workplan_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-04 13:10:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>caf49480dbc56300a126771ebf961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WorkPlans</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WorkplanAndWorkstepApp" source="x_278705_workplana">36205804db416300a126771ebf9619fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WorkplanAndWorkstepApp">36205804db416300a126771ebf9619fc</sys_scope>
+        <sys_update_name>sys_app_module_caf49480dbc56300a126771ebf961973</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-04 13:10:33</sys_updated_on>
+        <timeline_page/>
+        <title>WorkPlans</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

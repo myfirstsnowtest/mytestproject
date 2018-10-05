@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>WorkPlan</name>
+        <order/>
+        <roles>x_278705_workplana.workplan_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-04 13:10:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c2f49480dbc56300a126771ebf961976</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WorkPlan</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WorkplanAndWorkstepApp" source="x_278705_workplana">36205804db416300a126771ebf9619fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WorkplanAndWorkstepApp">36205804db416300a126771ebf9619fc</sys_scope>
+        <sys_update_name>sys_ui_application_c2f49480dbc56300a126771ebf961976</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-04 13:10:34</sys_updated_on>
+    </sys_ui_application>
+</record_update>

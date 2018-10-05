@@ -64,7 +64,6 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-10-04 14:24:05</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>cfc5640cdbc56300a126771ebf961948</sys_id>
@@ -73,7 +72,6 @@
             <sys_overrides/>
             <sys_package display_value="WorkplanAndWorkstepApp" source="x_278705_workplana">36205804db416300a126771ebf9619fc</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="WorkplanAndWorkstepApp">36205804db416300a126771ebf9619fc</sys_scope>
             <sys_update_name>sys_ui_section_cfc5640cdbc56300a126771ebf961948</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>

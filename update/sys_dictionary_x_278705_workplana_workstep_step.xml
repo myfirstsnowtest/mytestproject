@@ -53,17 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-04 14:08:55</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>7491ac08dbc56300a126771ebf9619bd</sys_id>
+        <sys_id>948f5c18db012300a126771ebf961951</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>step</sys_name>
         <sys_package display_value="WorkplanAndWorkstepApp" source="x_278705_workplana">36205804db416300a126771ebf9619fc</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="WorkplanAndWorkstepApp">36205804db416300a126771ebf9619fc</sys_scope>
         <sys_update_name>sys_dictionary_x_278705_workplana_workstep_step</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-04 14:08:55</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-10-05 08:35:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

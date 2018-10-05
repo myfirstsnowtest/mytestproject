@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="My Portal Page">68346c5cdb012300a126771ebf961980</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-05 08:55:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a8346c5cdb012300a126771ebf961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>68346c5cdb012300a126771ebf961980</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WorkplanAndWorkstepApp" source="x_278705_workplana">36205804db416300a126771ebf9619fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WorkplanAndWorkstepApp">36205804db416300a126771ebf9619fc</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_a8346c5cdb012300a126771ebf961987</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-05 08:55:34</sys_updated_on>
+        <tab display_value="New Tab">68346c5cdb012300a126771ebf961985</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

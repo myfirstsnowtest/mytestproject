@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>My subpage - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="my_subpage">be86289cdb012300a126771ebf9619e7</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-05 09:05:49</sys_created_on>
+        <sys_id>3286e4dcdb012300a126771ebf9619fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My subpage - Container 1</sys_name>
+        <sys_package display_value="WorkplanAndWorkstepApp" source="x_278705_workplana">36205804db416300a126771ebf9619fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WorkplanAndWorkstepApp">36205804db416300a126771ebf9619fc</sys_scope>
+        <sys_update_name>sp_container_3286e4dcdb012300a126771ebf9619fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-05 09:05:49</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

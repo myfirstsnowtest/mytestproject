@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="WorkStep" max_length="40" name="x_278705_workplana_workstep" type="collection">
-        <element default="False" label="active" max_length="40" name="active" type="boolean"/>
-        <element label="componentId" max_length="40" name="componentid" reference="x_278705_workplana_component" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="False" label="active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="componentId" max_length="40" name="componentid" reference="x_278705_workplana_component" type="reference"/>
         <element label="errorHandling" max_length="255" name="errorhandling" type="string_full_utf8"/>
-        <element label="step" max_length="40" name="step" type="integer"/>
-        <element display="true" label="workplanId" max_length="40" name="workplanid" reference="x_278705_workplana_workplan" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="step" max_length="40" name="step" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="workplanId" max_length="40" name="workplanid" reference="x_278705_workplana_workplan" type="reference"/>
+        <index name="index">
+            <element name="componentid"/>
+        </index>
+        <index name="index2">
+            <element name="workplanid"/>
+        </index>
     </element>
 </database>
